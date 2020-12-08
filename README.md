@@ -1,6 +1,6 @@
 # remove-twitter-right-pane
 
-A Chrome extension to remove unnecessary righthand pane.
+A Chrome extension to hide unnecessary right-hand side pane.
 
 ## Install
 
